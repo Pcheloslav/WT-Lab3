@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<class>    
+    <user> 
+        <login>root</login>
+        <password>toor</password>
+        <rights>ROOT</rights>
+    </user>
+    <user>     
+        <login>manager</login>      
+        <password>reganam</password>
+        <rights>MANAGER</rights>
+    </user>
+    <user>
+        <login>1</login>
+        <password>2</password>
+        <rights>GUEST</rights>
+    </user>
+</class>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<class>
+            
+    
+    <student>
+                 
+        
+        
+        <firstname>Vyacheslav</firstname>
+                        
+        
+        <lastname>Malinkin</lastname>
+                    
+    
+    </student>
+            
+    
+    <student>
+                        
+        
+        <firstname>Fedor</firstname>
+                        
+        
+        <lastname>Ivanov</lastname>
+                    
+    
+    </student>
+            
+    
+    <student>
+                        
+        
+        <firstname>Dmitry</firstname>
+                        
+        
+        <lastname>Buldygo</lastname>
+                    
+    
+    </student>
+            
+    
+    <student>
+                        
+        
+        <firstname>Pavel</firstname>
+                        
+        
+        <lastname>Starovoitov</lastname>
+                    
+    
+    </student>
+        
+    
+
+</class>
